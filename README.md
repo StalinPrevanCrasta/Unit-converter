@@ -1,4 +1,4 @@
-# Unit-converter
+# ConvertWiz
 
 The program provides a user-friendly interface for converting various units of measurement, making it easy to perform common conversions in a hassle-free manner.
 
